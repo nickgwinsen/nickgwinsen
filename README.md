@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm Nick Winsen! 👋
 
-<!--
-**nickgwinsen/nickgwinsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Student at Youngstown State University. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning react native for a class project.
+- 📫 How to reach me: Reach out to my LinkedIn!
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/nicholas-winsen-41766a20a/
+
+Feel free to connect with me and explore my projects. Thanks for visiting! 😊
