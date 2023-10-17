@@ -4,7 +4,7 @@ I'm a Computer Science Student at Youngstown State University. Welcome to my Git
 
 ## About Me
 
-- 🌱 I'm currently learning react native for a class project.
+- 🌱 Currently learning: web dev fundamentals
 - 📫 How to reach me: Reach out to my LinkedIn!
 
 ## Let's Connect
